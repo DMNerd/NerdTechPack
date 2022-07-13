@@ -19,21 +19,21 @@ oreTexture = "mekanism:block/lead_ore"
 oreTexture = "mekanism:block/fluorite_ore"
 
 [":deepslate_tin_ore"]
-oreTexture = "mekanism:block/tin_ore"
+oreTexture = "mekanism:block/deepslate_tin_ore"
 rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_uranium_ore"]
-oreTexture = "mekanism:block/uranium_ore"
+oreTexture = "mekanism:block/deepslate_uranium_ore"
 rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_osmium_ore"]
-oreTexture = "mekanism:block/osmium_ore"
+oreTexture = "mekanism:block/deepslate_osmium_ore"
 rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_lead_ore"]
-oreTexture = "mekanism:block/lead_ore"
+oreTexture = "mekanism:block/deepslate_lead_ore"
 rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_fluorite_ore"]
-oreTexture = "mekanism:block/fluorite_ore"
+oreTexture = "mekanism:block/deepslate_fluorite_ore"
 rockTexture = "minecraft:block/deepslate"
