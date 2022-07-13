@@ -5,7 +5,7 @@
     "color": "e2b540",
     "armorPoints": 6,
     "enchantability": 10,
-    "craftingMaterial": "tag:forge:gems/blazing_crystal",
+    "craftingMaterial": "tag:powah:blazing_crystal",
     "rarity": 1,
     "capacity": 41472000,
     "usage": 1536,

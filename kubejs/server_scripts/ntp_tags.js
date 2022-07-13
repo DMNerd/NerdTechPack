@@ -1,11 +1,8 @@
 onEvent('tags.items', event => {
 	//Add tags
-	event.add('forge:fillet_knife', 'farmersdelight:flint_knife')
-	event.add('forge:fillet_knife', 'farmersdelight:iron_knife')
-	event.add('forge:fillet_knife', 'farmersdelight:golden_knife')
-	event.add('forge:fillet_knife', 'farmersdelight:diamond_knife')
-	event.add('forge:fillet_knife', 'farmersdelight:netherite_knife')
-	event.add('forge:fillet_knife', 'sushigocrafting:cleaver_knife')
+	event.add('forge:fillet_knife', /farmersdelight:.+_knife/)
+	event.add('forge:fillet_knife', /tools_complement:.+_knife/)
+	event.add('forge:fillet_knife', /delightful:.+_knife/)
 	//Bluepower integration
 	event.add('forge:raw_materials', 'bluepower:zinc_raw')
 	event.add('forge:raw_materials/zinc', 'bluepower:zinc_raw')
@@ -35,17 +32,10 @@ onEvent('tags.items', event => {
 	//Powah integration
 	event.add('forge:ingots', 'powah:steel_energized')
 	event.add('forge:ingots/energized_steel', 'powah:steel_energized')
-	event.add('forge:gems', 'powah:crystal_blazing')
-	event.add('forge:gems/blazing_crystal', 'powah:crystal_blazing')
-	event.add('forge:gems', 'powah:crystal_niotic')
-	event.add('forge:gems/niotic_crystal', 'powah:crystal_niotic')
-	event.add('forge:gems', 'powah:crystal_spirited')
-	event.add('forge:gems/spirited_crystal', 'powah:crystal_spirited')
-	event.add('forge:gems', 'powah:crystal_nitro')
-	event.add('forge:gems/nitro_crystal', 'powah:crystal_nitro')
-	event.add('forge:gems', 'powah:uraninite')
-	event.add('forge:gems/uraninite', 'powah:uraninite')
+	event.add('powah:blazing_crystal', 'powah:crystal_blazing')
+	event.add('powah:niotic_crystal', 'powah:crystal_niotic')
+	event.add('powah:spirited_crystal', 'powah:crystal_spirited')
+	event.add('powah:nitro_crystal', 'powah:crystal_nitro')
 	event.add('forge:raw_materials', 'powah:uraninite_raw')
 	event.add('forge:raw_materials/uraninite', 'powah:uraninite_raw')
-	
 })

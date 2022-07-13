@@ -5,7 +5,7 @@
     "color": "10dfcb",
     "armorPoints": 7,
     "enchantability": 12,
-    "craftingMaterial": "tag:forge:gems/niotic_crystal",
+    "craftingMaterial": "tag:powah:niotic_crystal",
     "rarity": 1,
     "capacity": 192000000,
     "usage": 2560,

@@ -5,7 +5,7 @@
     "color": "ba3331",
     "armorPoints": 8,
     "enchantability": 25,
-    "craftingMaterial": "tag:forge:gems/nitro_crystal",
+    "craftingMaterial": "tag:powah:nitro_crystal",
     "rarity": 3,
     "capacity": 1119744000,
     "usage": 4608,
