@@ -20,7 +20,7 @@ oreTexture = "mekanism:block/fluorite_ore"
 
 [":deepslate_tin_ore"]
 oreTexture = "mekanism:block/tin_ore"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_uranium_ore"]
 oreTexture = "mekanism:block/uranium_ore"
