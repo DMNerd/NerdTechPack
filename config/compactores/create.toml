@@ -1,0 +1,11 @@
+["!local"]
+rockTexture = "minecraft:block/stone"
+lateGeneration = true
+useGetDrops = false
+
+[":zinc_ore"]
+oreTexture = "create:block/zinc_ore"
+
+[":deepslate_zinc_ore"]
+oreTexture = "create:block/deepslate_zinc_ore"
+rockTexture = "minecraft:block/deepslate"

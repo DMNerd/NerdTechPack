@@ -23,20 +23,20 @@ oreTexture = "immersiveengineering:block/metal/ore_silver"
 [":deepslate_ore_aluminum"]
 oreTexture = "immersiveengineering:block/metal/ore_aluminum"
 maxOreLayerColorDiff = 70
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_ore_uranium"]
 oreTexture = "immersiveengineering:block/metal/ore_uranium"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_ore_lead"]
 oreTexture = "immersiveengineering:block/metal/ore_lead"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_ore_nickel"]
 oreTexture = "immersiveengineering:block/metal/ore_nickel"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_ore_silver"]
 oreTexture = "immersiveengineering:block/metal/ore_silver"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"

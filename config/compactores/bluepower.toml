@@ -17,16 +17,16 @@ oreTexture = "bluepower:blocks/silver_ore"
 
 [":zinc_deepslate"]
 oreTexture = "bluepower:blocks/zinc_deepslate"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
-[":tungsten_ore"]
+[":tungsten_deepslate"]
 oreTexture = "bluepower:blocks/tungsten_deepslate"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
-[":teslatite_ore"]
+[":teslatite_deepslate"]
 oreTexture = "bluepower:blocks/teslatite_deepslate"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
-[":silver_ore"]
+[":silver_deepslate"]
 oreTexture = "bluepower:blocks/silver_deepslate"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"

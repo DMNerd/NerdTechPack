@@ -24,16 +24,16 @@ rockTexture = ":block/deepslate"
 
 [":deepslate_uranium_ore"]
 oreTexture = "mekanism:block/uranium_ore"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_osmium_ore"]
 oreTexture = "mekanism:block/osmium_ore"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_lead_ore"]
 oreTexture = "mekanism:block/lead_ore"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_fluorite_ore"]
 oreTexture = "mekanism:block/fluorite_ore"
-rockTexture = ":block/deepslate"
+rockTexture = "minecraft:block/deepslate"
