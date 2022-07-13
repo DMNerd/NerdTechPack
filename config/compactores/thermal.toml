@@ -1,0 +1,16 @@
+["!local"]
+rockTexture = "minecraft:block/stone"
+lateGeneration = true
+useGetDrops = false
+
+[":silver_ore"]
+oreTexture = "thermal:block/ores/silver_ore"
+
+[":lead_ore"]
+oreTexture = "thermal:block/ores/lead_ore"
+
+[":nickel_ore"]
+oreTexture = "thermal:block/ores/nickel_ore"
+
+[":tin_ore"]
+oreTexture = "thermal:block/ores/tin_ore"

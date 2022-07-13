@@ -1,0 +1,19 @@
+["!local"]
+rockTexture = "minecraft:block/stone"
+lateGeneration = true
+useGetDrops = false
+
+[":tin_ore"]
+oreTexture = "mekanism:block/tin_ore"
+
+[":uranium_ore"]
+oreTexture = "mekanism:block/uranium_ore"
+
+[":osmium_ore"]
+oreTexture = "mekanism:block/osmium_ore"
+
+[":lead_ore"]
+oreTexture = "mekanism:block/lead_ore"
+
+[":fluorite_ore"]
+oreTexture = "mekanism:block/fluorite_ore"

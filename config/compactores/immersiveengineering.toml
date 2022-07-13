@@ -1,0 +1,12 @@
+["!local"]
+rockTexture = "minecraft:block/stone"
+lateGeneration = true
+useGetDrops = false
+
+[":aluminum_ore"]
+oreTexture = "immersiveengineering:block/metal/ore_aluminum"
+maxOreLayerColorDiff = 70
+#50
+
+[":uranium_ore"]
+oreTexture = "immersiveengineering:block/metal/ore_uranium"
