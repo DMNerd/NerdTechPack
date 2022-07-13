@@ -38,4 +38,6 @@ onEvent('tags.items', event => {
 	event.add('powah:nitro_crystal', 'powah:crystal_nitro')
 	event.add('forge:raw_materials', 'powah:uraninite_raw')
 	event.add('forge:raw_materials/uraninite', 'powah:uraninite_raw')
+	//FTBIC integration
+	event.add('forge:raw_ores/iridium', 'ftbic:iridium_chunk')
 })

@@ -31,9 +31,6 @@ global["unifyexclude"] = new Set([
 
 // Add oredictionary tags here to unify (or use javascript to generate it!). These are also higher priority than tagGen
 var tags = [
-    "forge:gems/ruby",
-    "forge:gems/amethyst",
-    "forge:gems/sapphire",
     "forge:plates/iron",
     "forge:gears/iron",
     "forge:silicon",
