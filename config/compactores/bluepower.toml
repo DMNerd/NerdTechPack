@@ -1,0 +1,32 @@
+["!local"]
+rockTexture = "minecraft:block/stone"
+lateGeneration = true
+useGetDrops = false
+
+[":zinc_ore"]
+oreTexture = "bluepower:blocks/zinc_ore"
+
+[":tungsten_ore"]
+oreTexture = "bluepower:blocks/tungsten_ore"
+
+[":teslatite_ore"]
+oreTexture = "bluepower:blocks/teslatite_ore"
+
+[":silver_ore"]
+oreTexture = "bluepower:blocks/silver_ore"
+
+[":zinc_deepslate"]
+oreTexture = "bluepower:blocks/zinc_deepslate"
+rockTexture = ":block/deepslate"
+
+[":tungsten_ore"]
+oreTexture = "bluepower:blocks/tungsten_deepslate"
+rockTexture = ":block/deepslate"
+
+[":teslatite_ore"]
+oreTexture = "bluepower:blocks/teslatite_deepslate"
+rockTexture = ":block/deepslate"
+
+[":silver_ore"]
+oreTexture = "bluepower:blocks/silver_deepslate"
+rockTexture = ":block/deepslate"
