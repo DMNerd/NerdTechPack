@@ -4,36 +4,41 @@ lateGeneration = true
 useGetDrops = false
 
 [":tin_ore"]
-oreTexture = "mekanism:block/tin_ore"
+oreTexture = ":block/tin_ore"
 
 [":uranium_ore"]
-oreTexture = "mekanism:block/uranium_ore"
+oreTexture = ":block/uranium_ore"
 
 [":osmium_ore"]
-oreTexture = "mekanism:block/osmium_ore"
+oreTexture = ":block/osmium_ore"
 
 [":lead_ore"]
-oreTexture = "mekanism:block/lead_ore"
+oreTexture = ":block/lead_ore"
 
 [":fluorite_ore"]
-oreTexture = "mekanism:block/fluorite_ore"
+oreTexture = ":block/fluorite_ore"
 
 [":deepslate_tin_ore"]
-oreTexture = "mekanism:block/deepslate_tin_ore"
+oreTexture = ":block/deepslate_tin_ore"
+maxOreLayerColorDiff = 70
 rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_uranium_ore"]
-oreTexture = "mekanism:block/deepslate_uranium_ore"
+oreTexture = ":block/deepslate_uranium_ore"
+maxOreLayerColorDiff = 70
 rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_osmium_ore"]
-oreTexture = "mekanism:block/deepslate_osmium_ore"
+oreTexture = ":block/deepslate_osmium_ore"
+maxOreLayerColorDiff = 70
 rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_lead_ore"]
-oreTexture = "mekanism:block/deepslate_lead_ore"
+oreTexture = ":block/deepslate_lead_ore"
+maxOreLayerColorDiff = 70
 rockTexture = "minecraft:block/deepslate"
 
 [":deepslate_fluorite_ore"]
-oreTexture = "mekanism:block/deepslate_fluorite_ore"
+oreTexture = ":block/deepslate_fluorite_ore"
+maxOreLayerColorDiff = 70
 rockTexture = "minecraft:block/deepslate"

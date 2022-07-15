@@ -1,5 +1,5 @@
 ["!local"]
-rockTexture = ":block/stone"
+rockTexture = "minecraft:block/stone"
 
 [":inferium_ore"]
 oreTexture = ":block/inferium_ore"
@@ -13,7 +13,7 @@ oreTexture = ":block/prosperity_ore"
 
 [":deepslate_prosperity_ore"]
 oreTexture = ":block/prosperity_ore"
-rockTexture = "minecraft:block/netherrack"
+rockTexture = "minecraft:block/deepslate"
 
 [":soulium_ore"]
 oreTexture = ":block/soulium_ore"
