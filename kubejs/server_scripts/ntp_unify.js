@@ -34,6 +34,7 @@ var tags = [
     "forge:plates/iron",
     "forge:gears/iron",
     "forge:silicon",
+    "forge:coal_coke",
     "deepresonance:resonant_ore"
 ]
 // Block tags for ore gen unification (DOES NOT WORK CURRENTLY)
