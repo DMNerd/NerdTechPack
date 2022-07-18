@@ -40,4 +40,7 @@ onEvent('tags.items', event => {
 	event.add('forge:raw_materials/uraninite', 'powah:uraninite_raw')
 	//FTBIC integration
 	event.add('forge:raw_ores/iridium', 'ftbic:iridium_chunk')
+	event.add('forge:rubber', 'ftbic:rubber')
+	//Industrial Foregoing integration
+	//Thermal Integration
 })

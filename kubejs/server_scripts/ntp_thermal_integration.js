@@ -14,6 +14,7 @@ onEvent('recipes', event => {
 	//Crushing
 	event.recipes.thermal.pulverizer(Item.of('ftbic:uranium_dust'), 'powah:uraninite').experience(0.2).id('ntp:thermal/uraninite_to_uranium')
 	event.recipes.thermal.pulverizer(Item.of('ftbic:uranium_dust'), 'powah:uraninite_raw').experience(0.2).id('ntp:thermal/raw_uraninite_to_uranium')
+	event.recipes.thermal.pulverizer(Item.of('industrialforegoing:tinydryrubber', 4), 'thermal:rubber').experience(0.2).id('ntp:thermal/thermal_rubber_to_if_rubber')
 	event.recipes.thermal.pulverizer(Item.of('quark:red_corundum_cluster', 9), Item.of('quark:red_corundum')).experience(0.2).id('ntp:thermal/corundum_block_to_cluster_red')
 	event.recipes.thermal.pulverizer(Item.of('quark:red_corundum_cluster', 9), Item.of('quark:red_corundum')).experience(0.2).id('ntp:thermal/corundum_block_to_cluster_red')
 	event.recipes.thermal.pulverizer(Item.of('quark:orange_corundum_cluster', 9), Item.of('quark:orange_corundum')).experience(0.2).id('ntp:thermal/corundum_block_to_cluster_orange')
@@ -24,4 +25,6 @@ onEvent('recipes', event => {
 	event.recipes.thermal.pulverizer(Item.of('quark:violet_corundum_cluster', 9), Item.of('quark:violet_corundum')).experience(0.2).id('ntp:thermal/corundum_block_to_cluster_violet')
 	event.recipes.thermal.pulverizer(Item.of('quark:white_corundum_cluster', 9), Item.of('quark:white_corundum')).experience(0.2).id('ntp:thermal/corundum_block_to_cluster_white')
 	event.recipes.thermal.pulverizer(Item.of('quark:black_corundum_cluster', 9), Item.of('quark:black_corundum')).experience(0.2).id('ntp:thermal/corundum_block_to_cluster_black')
+	//Magma Crucible
+	event.recipes.thermal.crucible(Fluid.of('industrialforegoing:latex', 675), Item.of('myrtrees:latex')).id('ntp:thermal/latex_conversion')
 })
