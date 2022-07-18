@@ -11,14 +11,16 @@ global["RECIPE_DEDUPE"] = true
 // Mod priorities
 global["unifypriorities"] = [
     "minecraft",
-    "alltheores",
     "ftbic",
     "mekanism",
 	"create",
     "thermal",
 	"immersiveengineering",
+    "pneumaticcraft",
+    "industrialforegoing",
     "assemblylinemachines",
     "tconstruct",
+    "bluepower",
     "tinkers_reforged",
     "jaopca",
     "chemlib"
@@ -36,6 +38,8 @@ let tags = new Set([
     "forge:gears/iron",
     "forge:silicon",
     "forge:coal_coke",
+    "forge:plastic",
+    'forge:rubber',
     "deepresonance:resonant_ore"
 ])
 

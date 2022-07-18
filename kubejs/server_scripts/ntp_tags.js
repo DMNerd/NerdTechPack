@@ -42,5 +42,18 @@ onEvent('tags.items', event => {
 	event.add('forge:raw_ores/iridium', 'ftbic:iridium_chunk')
 	event.add('forge:rubber', 'ftbic:rubber')
 	//Industrial Foregoing integration
+	event.add('pneumaticcraft:plastic_sheets', 'industrialforegoing:plastic')
+	event.add('forge:sheets', 'industrialforegoing:plastic')
+	event.add('forge:sheets/plastic', 'industrialforegoing:plastic')
+	event.add('materialis:plastic_material', 'industrialforegoing:plastic')
 	//Thermal Integration
+	event.add('forge:rubber', 'thermal:cured_rubber')
+	//Pneumaticcraft integration
+	event.add('forge:plastic', 'pneumaticcraft:plastic')
+	event.add('forge:sheets', 'pneumaticcraft:plastic')
+	event.add('forge:sheets/plastic', 'pneumaticcraft:plastic')
+	//Assembly line machines integration
+	event.add('forge:plastic', 'assemblylinemachines:plastic_sheet')
+	event.add('pneumaticcraft:plastic_sheets', 'assemblylinemachines:plastic_sheet')
+	event.add('materialis:plastic_material', 'assemblylinemachines:plastic_sheet')
 })
