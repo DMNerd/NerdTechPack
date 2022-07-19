@@ -1,0 +1,758 @@
+{
+	"itemsToTags": {
+		"thermal:iron_plate": "forge:plates/iron",
+		"beyond_earth:iron_plate": "forge:plates/iron",
+		"ftbic:iron_plate": "forge:plates/iron",
+		"create:iron_sheet": "forge:plates/iron",
+		"immersiveengineering:plate_iron": "forge:plates/iron",
+		"industrialforegoing:iron_gear": "forge:gears/iron",
+		"thermal:iron_gear": "forge:gears/iron",
+		"ftbic:iron_gear": "forge:gears/iron",
+		"ae2:silicon": "forge:silicon",
+		"refinedstorage:silicon": "forge:silicon",
+		"ftbic:silicon": "forge:silicon",
+		"thermal:coal_coke": "forge:coal_coke",
+		"immersiveengineering:coal_coke": "forge:coal_coke",
+		"industrialforegoing:plastic": "forge:plastic",
+		"pneumaticcraft:plastic": "forge:plastic",
+		"assemblylinemachines:plastic_sheet": "forge:plastic",
+		"ftbic:rubber": "forge:rubber",
+		"thermal:cured_rubber": "forge:rubber",
+		"deepresonance:resonating_ore_deepslate": "deepresonance:resonant_ore",
+		"deepresonance:resonating_ore_stone": "deepresonance:resonant_ore",
+		"deepresonance:resonating_ore_nether": "deepresonance:resonant_ore",
+		"deepresonance:resonating_ore_end": "deepresonance:resonant_ore",
+		"industrialforegoing:gold_gear": "forge:gears/gold",
+		"thermal:gold_gear": "forge:gears/gold",
+		"ftbic:gold_gear": "forge:gears/gold",
+		"industrialforegoing:diamond_gear": "forge:gears/diamond",
+		"thermal:diamond_gear": "forge:gears/diamond",
+		"thermal:gold_plate": "forge:plates/gold",
+		"ftbic:gold_plate": "forge:plates/gold",
+		"create:golden_sheet": "forge:plates/gold",
+		"immersiveengineering:plate_gold": "forge:plates/gold",
+		"mekanism:block_tin": "forge:storage_blocks/tin",
+		"thermal:tin_block": "forge:storage_blocks/tin",
+		"ftbic:tin_block": "forge:storage_blocks/tin",
+		"ftbic:aluminum_block": "forge:storage_blocks/aluminum",
+		"immersiveengineering:storage_aluminum": "forge:storage_blocks/aluminum",
+		"mekanism:block_lead": "forge:storage_blocks/lead",
+		"thermal:lead_block": "forge:storage_blocks/lead",
+		"ftbic:lead_block": "forge:storage_blocks/lead",
+		"immersiveengineering:storage_lead": "forge:storage_blocks/lead",
+		"thermal:silver_block": "forge:storage_blocks/silver",
+		"immersiveengineering:storage_silver": "forge:storage_blocks/silver",
+		"bluepower:silver_block": "forge:storage_blocks/silver",
+		"thermal:nickel_block": "forge:storage_blocks/nickel",
+		"immersiveengineering:storage_nickel": "forge:storage_blocks/nickel",
+		"mekanism:block_bronze": "forge:storage_blocks/bronze",
+		"alloyed:bronze_block": "forge:storage_blocks/bronze",
+		"alloyed:waxed_bronze_block": "forge:storage_blocks/bronze",
+		"thermal:bronze_block": "forge:storage_blocks/bronze",
+		"ftbic:bronze_block": "forge:storage_blocks/bronze",
+		"mekanism:block_steel": "forge:storage_blocks/steel",
+		"assemblylinemachines:steel_block": "forge:storage_blocks/steel",
+		"alloyed:steel_block": "forge:storage_blocks/steel",
+		"thermal:steel_block": "forge:storage_blocks/steel",
+		"beyond_earth:steel_block": "forge:storage_blocks/steel",
+		"immersiveengineering:storage_steel": "forge:storage_blocks/steel",
+		"mekanism:block_uranium": "forge:storage_blocks/uranium",
+		"ftbic:uranium_block": "forge:storage_blocks/uranium",
+		"biggerreactors:uranium_block": "forge:storage_blocks/uranium",
+		"immersiveengineering:storage_uranium": "forge:storage_blocks/uranium",
+		"create:zinc_block": "forge:storage_blocks/zinc",
+		"bluepower:zinc_block": "forge:storage_blocks/zinc",
+		"mekanism:ingot_tin": "forge:ingots/tin",
+		"thermal:tin_ingot": "forge:ingots/tin",
+		"ftbic:tin_ingot": "forge:ingots/tin",
+		"ftbic:aluminum_ingot": "forge:ingots/aluminum",
+		"immersiveengineering:ingot_aluminum": "forge:ingots/aluminum",
+		"mekanism:ingot_lead": "forge:ingots/lead",
+		"thermal:lead_ingot": "forge:ingots/lead",
+		"ftbic:lead_ingot": "forge:ingots/lead",
+		"immersiveengineering:ingot_lead": "forge:ingots/lead",
+		"thermal:silver_ingot": "forge:ingots/silver",
+		"immersiveengineering:ingot_silver": "forge:ingots/silver",
+		"bluepower:silver_ingot": "forge:ingots/silver",
+		"thermal:nickel_ingot": "forge:ingots/nickel",
+		"immersiveengineering:ingot_nickel": "forge:ingots/nickel",
+		"mekanism:ingot_bronze": "forge:ingots/bronze",
+		"alloyed:bronze_ingot": "forge:ingots/bronze",
+		"thermal:bronze_ingot": "forge:ingots/bronze",
+		"ftbic:bronze_ingot": "forge:ingots/bronze",
+		"mekanism:ingot_steel": "forge:ingots/steel",
+		"assemblylinemachines:steel_ingot": "forge:ingots/steel",
+		"alloyed:steel_ingot": "forge:ingots/steel",
+		"thermal:steel_ingot": "forge:ingots/steel",
+		"beyond_earth:steel_ingot": "forge:ingots/steel",
+		"immersiveengineering:ingot_steel": "forge:ingots/steel",
+		"mekanism:ingot_uranium": "forge:ingots/uranium",
+		"ftbic:uranium_ingot": "forge:ingots/uranium",
+		"biggerreactors:uranium_ingot": "forge:ingots/uranium",
+		"immersiveengineering:ingot_uranium": "forge:ingots/uranium",
+		"create:zinc_ingot": "forge:ingots/zinc",
+		"bluepower:zinc_ingot": "forge:ingots/zinc",
+		"oreberriesreplanted:copper_nugget": "forge:nuggets/copper",
+		"thermal:copper_nugget": "forge:nuggets/copper",
+		"ftbic:copper_nugget": "forge:nuggets/copper",
+		"create:copper_nugget": "forge:nuggets/copper",
+		"immersiveengineering:nugget_copper": "forge:nuggets/copper",
+		"tconstruct:copper_nugget": "forge:nuggets/copper",
+		"bluepower:copper_nugget": "forge:nuggets/copper",
+		"mekanism:nugget_tin": "forge:nuggets/tin",
+		"thermal:tin_nugget": "forge:nuggets/tin",
+		"ftbic:tin_nugget": "forge:nuggets/tin",
+		"ftbic:aluminum_nugget": "forge:nuggets/aluminum",
+		"immersiveengineering:nugget_aluminum": "forge:nuggets/aluminum",
+		"mekanism:nugget_lead": "forge:nuggets/lead",
+		"thermal:lead_nugget": "forge:nuggets/lead",
+		"ftbic:lead_nugget": "forge:nuggets/lead",
+		"immersiveengineering:nugget_lead": "forge:nuggets/lead",
+		"thermal:silver_nugget": "forge:nuggets/silver",
+		"immersiveengineering:nugget_silver": "forge:nuggets/silver",
+		"bluepower:silver_nugget": "forge:nuggets/silver",
+		"thermal:nickel_nugget": "forge:nuggets/nickel",
+		"immersiveengineering:nugget_nickel": "forge:nuggets/nickel",
+		"mekanism:nugget_bronze": "forge:nuggets/bronze",
+		"thermal:bronze_nugget": "forge:nuggets/bronze",
+		"ftbic:bronze_nugget": "forge:nuggets/bronze",
+		"mekanism:nugget_steel": "forge:nuggets/steel",
+		"assemblylinemachines:steel_nugget": "forge:nuggets/steel",
+		"thermal:steel_nugget": "forge:nuggets/steel",
+		"beyond_earth:steel_nugget": "forge:nuggets/steel",
+		"immersiveengineering:nugget_steel": "forge:nuggets/steel",
+		"mekanism:nugget_uranium": "forge:nuggets/uranium",
+		"ftbic:uranium_nugget": "forge:nuggets/uranium",
+		"immersiveengineering:nugget_uranium": "forge:nuggets/uranium",
+		"create:zinc_nugget": "forge:nuggets/zinc",
+		"bluepower:zinc_nugget": "forge:nuggets/zinc",
+		"mekanism:dust_copper": "forge:dusts/copper",
+		"assemblylinemachines:ground_copper": "forge:dusts/copper",
+		"thermal:copper_dust": "forge:dusts/copper",
+		"ftbic:copper_dust": "forge:dusts/copper",
+		"immersiveengineering:dust_copper": "forge:dusts/copper",
+		"mekanism:dust_tin": "forge:dusts/tin",
+		"thermal:tin_dust": "forge:dusts/tin",
+		"ftbic:tin_dust": "forge:dusts/tin",
+		"ftbic:aluminum_dust": "forge:dusts/aluminum",
+		"immersiveengineering:dust_aluminum": "forge:dusts/aluminum",
+		"mekanism:dust_lead": "forge:dusts/lead",
+		"thermal:lead_dust": "forge:dusts/lead",
+		"ftbic:lead_dust": "forge:dusts/lead",
+		"immersiveengineering:dust_lead": "forge:dusts/lead",
+		"thermal:silver_dust": "forge:dusts/silver",
+		"immersiveengineering:dust_silver": "forge:dusts/silver",
+		"bluepower:silver_dust": "forge:dusts/silver",
+		"thermal:nickel_dust": "forge:dusts/nickel",
+		"immersiveengineering:dust_nickel": "forge:dusts/nickel",
+		"mekanism:dust_bronze": "forge:dusts/bronze",
+		"thermal:bronze_dust": "forge:dusts/bronze",
+		"ftbic:bronze_dust": "forge:dusts/bronze",
+		"mekanism:dust_steel": "forge:dusts/steel",
+		"assemblylinemachines:ground_steel": "forge:dusts/steel",
+		"thermal:steel_dust": "forge:dusts/steel",
+		"immersiveengineering:dust_steel": "forge:dusts/steel",
+		"mekanism:dust_uranium": "forge:dusts/uranium",
+		"ftbic:uranium_dust": "forge:dusts/uranium",
+		"biggerreactors:uranium_dust": "forge:dusts/uranium",
+		"immersiveengineering:dust_uranium": "forge:dusts/uranium",
+		"thermal:copper_gear": "forge:gears/copper",
+		"ftbic:copper_gear": "forge:gears/copper",
+		"thermal:tin_gear": "forge:gears/tin",
+		"ftbic:tin_gear": "forge:gears/tin",
+		"thermal:lead_gear": "forge:gears/lead",
+		"ftbic:lead_gear": "forge:gears/lead",
+		"thermal:bronze_gear": "forge:gears/bronze",
+		"ftbic:bronze_gear": "forge:gears/bronze",
+		"thermal:copper_plate": "forge:plates/copper",
+		"ftbic:copper_plate": "forge:plates/copper",
+		"create:copper_sheet": "forge:plates/copper",
+		"immersiveengineering:plate_copper": "forge:plates/copper",
+		"thermal:tin_plate": "forge:plates/tin",
+		"ftbic:tin_plate": "forge:plates/tin",
+		"ftbic:aluminum_plate": "forge:plates/aluminum",
+		"immersiveengineering:plate_aluminum": "forge:plates/aluminum",
+		"thermal:lead_plate": "forge:plates/lead",
+		"ftbic:lead_plate": "forge:plates/lead",
+		"immersiveengineering:plate_lead": "forge:plates/lead",
+		"thermal:silver_plate": "forge:plates/silver",
+		"immersiveengineering:plate_silver": "forge:plates/silver",
+		"thermal:nickel_plate": "forge:plates/nickel",
+		"immersiveengineering:plate_nickel": "forge:plates/nickel",
+		"alloyed:bronze_sheet": "forge:plates/bronze",
+		"thermal:bronze_plate": "forge:plates/bronze",
+		"ftbic:bronze_plate": "forge:plates/bronze",
+		"alloyed:steel_sheet": "forge:plates/steel",
+		"thermal:steel_plate": "forge:plates/steel",
+		"immersiveengineering:plate_steel": "forge:plates/steel",
+		"ftbic:uranium_plate": "forge:plates/uranium",
+		"immersiveengineering:plate_uranium": "forge:plates/uranium",
+		"createdeco:zinc_sheet": "forge:plates/zinc",
+		"createaddition:zinc_sheet": "forge:plates/zinc",
+		"mekanism:raw_tin": "forge:raw_materials/tin",
+		"thermal:raw_tin": "forge:raw_materials/tin",
+		"ftbic:tin_chunk": "forge:raw_materials/tin",
+		"ftbic:aluminum_chunk": "forge:raw_materials/aluminum",
+		"immersiveengineering:raw_aluminum": "forge:raw_materials/aluminum",
+		"mekanism:raw_lead": "forge:raw_materials/lead",
+		"thermal:raw_lead": "forge:raw_materials/lead",
+		"ftbic:lead_chunk": "forge:raw_materials/lead",
+		"immersiveengineering:raw_lead": "forge:raw_materials/lead",
+		"thermal:raw_silver": "forge:raw_materials/silver",
+		"immersiveengineering:raw_silver": "forge:raw_materials/silver",
+		"bluepower:silver_raw": "forge:raw_materials/silver",
+		"thermal:raw_nickel": "forge:raw_materials/nickel",
+		"immersiveengineering:raw_nickel": "forge:raw_materials/nickel",
+		"mekanism:raw_uranium": "forge:raw_materials/uranium",
+		"ftbic:uranium_chunk": "forge:raw_materials/uranium",
+		"immersiveengineering:raw_uranium": "forge:raw_materials/uranium",
+		"create:raw_zinc": "forge:raw_materials/zinc",
+		"bluepower:zinc_raw": "forge:raw_materials/zinc",
+		"mekanism:block_raw_tin": "forge:storage_blocks/raw_tin",
+		"thermal:raw_tin_block": "forge:storage_blocks/raw_tin",
+		"mekanism:block_raw_lead": "forge:storage_blocks/raw_lead",
+		"thermal:raw_lead_block": "forge:storage_blocks/raw_lead",
+		"immersiveengineering:raw_block_lead": "forge:storage_blocks/raw_lead",
+		"thermal:raw_silver_block": "forge:storage_blocks/raw_silver",
+		"immersiveengineering:raw_block_silver": "forge:storage_blocks/raw_silver",
+		"thermal:raw_nickel_block": "forge:storage_blocks/raw_nickel",
+		"immersiveengineering:raw_block_nickel": "forge:storage_blocks/raw_nickel",
+		"mekanism:block_raw_uranium": "forge:storage_blocks/raw_uranium",
+		"immersiveengineering:raw_block_uranium": "forge:storage_blocks/raw_uranium",
+		"mekanism:dust_sulfur": "forge:dusts/sulfur",
+		"thermal:sulfur_dust": "forge:dusts/sulfur",
+		"immersiveengineering:dust_sulfur": "forge:dusts/sulfur",
+		"mekanism:dust_netherite": "forge:dusts/netherite",
+		"assemblylinemachines:ground_netherite": "forge:dusts/netherite",
+		"thermal:netherite_dust": "forge:dusts/netherite",
+		"mekanism:deepslate_tin_ore": "unifytags:tag3",
+		"thermal:deepslate_tin_ore": "unifytags:tag3",
+		"mekanism:tin_ore": "unifytags:tag5",
+		"thermal:tin_ore": "unifytags:tag5",
+		"mekanism:deepslate_lead_ore": "unifytags:tag9",
+		"immersiveengineering:deepslate_ore_lead": "unifytags:tag9",
+		"thermal:deepslate_lead_ore": "unifytags:tag9",
+		"mekanism:lead_ore": "unifytags:tag11",
+		"immersiveengineering:ore_lead": "unifytags:tag11",
+		"thermal:lead_ore": "unifytags:tag11",
+		"immersiveengineering:deepslate_ore_silver": "unifytags:tag12",
+		"thermal:deepslate_silver_ore": "unifytags:tag12",
+		"immersiveengineering:ore_silver": "unifytags:tag14",
+		"thermal:silver_ore": "unifytags:tag14",
+		"immersiveengineering:deepslate_ore_nickel": "unifytags:tag15",
+		"thermal:deepslate_nickel_ore": "unifytags:tag15",
+		"immersiveengineering:ore_nickel": "unifytags:tag17",
+		"thermal:nickel_ore": "unifytags:tag17",
+		"mekanism:deepslate_uranium_ore": "unifytags:tag27",
+		"immersiveengineering:deepslate_ore_uranium": "unifytags:tag27",
+		"mekanism:uranium_ore": "unifytags:tag29",
+		"immersiveengineering:ore_uranium": "unifytags:tag29"
+	},
+	"tagItems": {
+		"forge:plates/iron": [
+			"thermal:iron_plate",
+			"beyond_earth:iron_plate",
+			"ftbic:iron_plate",
+			"create:iron_sheet",
+			"immersiveengineering:plate_iron"
+		],
+		"forge:gears/iron": [
+			"industrialforegoing:iron_gear",
+			"thermal:iron_gear",
+			"ftbic:iron_gear"
+		],
+		"forge:silicon": [
+			"ae2:silicon",
+			"refinedstorage:silicon",
+			"ftbic:silicon"
+		],
+		"forge:coal_coke": [
+			"thermal:coal_coke",
+			"immersiveengineering:coal_coke"
+		],
+		"forge:plastic": [
+			"industrialforegoing:plastic",
+			"pneumaticcraft:plastic",
+			"assemblylinemachines:plastic_sheet"
+		],
+		"forge:rubber": [
+			"ftbic:rubber",
+			"thermal:cured_rubber"
+		],
+		"deepresonance:resonant_ore": [
+			"deepresonance:resonating_ore_deepslate",
+			"deepresonance:resonating_ore_stone",
+			"deepresonance:resonating_ore_nether",
+			"deepresonance:resonating_ore_end"
+		],
+		"forge:gears/gold": [
+			"industrialforegoing:gold_gear",
+			"thermal:gold_gear",
+			"ftbic:gold_gear"
+		],
+		"forge:gears/diamond": [
+			"industrialforegoing:diamond_gear",
+			"thermal:diamond_gear"
+		],
+		"forge:plates/gold": [
+			"thermal:gold_plate",
+			"ftbic:gold_plate",
+			"create:golden_sheet",
+			"immersiveengineering:plate_gold"
+		],
+		"forge:storage_blocks/tin": [
+			"mekanism:block_tin",
+			"thermal:tin_block",
+			"ftbic:tin_block"
+		],
+		"forge:storage_blocks/aluminum": [
+			"ftbic:aluminum_block",
+			"immersiveengineering:storage_aluminum"
+		],
+		"forge:storage_blocks/lead": [
+			"mekanism:block_lead",
+			"thermal:lead_block",
+			"ftbic:lead_block",
+			"immersiveengineering:storage_lead"
+		],
+		"forge:storage_blocks/silver": [
+			"thermal:silver_block",
+			"immersiveengineering:storage_silver",
+			"bluepower:silver_block"
+		],
+		"forge:storage_blocks/nickel": [
+			"thermal:nickel_block",
+			"immersiveengineering:storage_nickel"
+		],
+		"forge:storage_blocks/bronze": [
+			"mekanism:block_bronze",
+			"alloyed:bronze_block",
+			"alloyed:waxed_bronze_block",
+			"thermal:bronze_block",
+			"ftbic:bronze_block"
+		],
+		"forge:storage_blocks/steel": [
+			"mekanism:block_steel",
+			"assemblylinemachines:steel_block",
+			"alloyed:steel_block",
+			"thermal:steel_block",
+			"beyond_earth:steel_block",
+			"immersiveengineering:storage_steel"
+		],
+		"forge:storage_blocks/uranium": [
+			"mekanism:block_uranium",
+			"ftbic:uranium_block",
+			"biggerreactors:uranium_block",
+			"immersiveengineering:storage_uranium"
+		],
+		"forge:storage_blocks/zinc": [
+			"create:zinc_block",
+			"bluepower:zinc_block"
+		],
+		"forge:ingots/tin": [
+			"mekanism:ingot_tin",
+			"thermal:tin_ingot",
+			"ftbic:tin_ingot"
+		],
+		"forge:ingots/aluminum": [
+			"ftbic:aluminum_ingot",
+			"immersiveengineering:ingot_aluminum"
+		],
+		"forge:ingots/lead": [
+			"mekanism:ingot_lead",
+			"thermal:lead_ingot",
+			"ftbic:lead_ingot",
+			"immersiveengineering:ingot_lead"
+		],
+		"forge:ingots/silver": [
+			"thermal:silver_ingot",
+			"immersiveengineering:ingot_silver",
+			"bluepower:silver_ingot"
+		],
+		"forge:ingots/nickel": [
+			"thermal:nickel_ingot",
+			"immersiveengineering:ingot_nickel"
+		],
+		"forge:ingots/bronze": [
+			"mekanism:ingot_bronze",
+			"alloyed:bronze_ingot",
+			"thermal:bronze_ingot",
+			"ftbic:bronze_ingot"
+		],
+		"forge:ingots/steel": [
+			"mekanism:ingot_steel",
+			"assemblylinemachines:steel_ingot",
+			"alloyed:steel_ingot",
+			"thermal:steel_ingot",
+			"beyond_earth:steel_ingot",
+			"immersiveengineering:ingot_steel"
+		],
+		"forge:ingots/uranium": [
+			"mekanism:ingot_uranium",
+			"ftbic:uranium_ingot",
+			"biggerreactors:uranium_ingot",
+			"immersiveengineering:ingot_uranium"
+		],
+		"forge:ingots/zinc": [
+			"create:zinc_ingot",
+			"bluepower:zinc_ingot"
+		],
+		"forge:nuggets/copper": [
+			"oreberriesreplanted:copper_nugget",
+			"thermal:copper_nugget",
+			"ftbic:copper_nugget",
+			"create:copper_nugget",
+			"immersiveengineering:nugget_copper",
+			"tconstruct:copper_nugget",
+			"bluepower:copper_nugget"
+		],
+		"forge:nuggets/tin": [
+			"mekanism:nugget_tin",
+			"thermal:tin_nugget",
+			"ftbic:tin_nugget"
+		],
+		"forge:nuggets/aluminum": [
+			"ftbic:aluminum_nugget",
+			"immersiveengineering:nugget_aluminum"
+		],
+		"forge:nuggets/lead": [
+			"mekanism:nugget_lead",
+			"thermal:lead_nugget",
+			"ftbic:lead_nugget",
+			"immersiveengineering:nugget_lead"
+		],
+		"forge:nuggets/silver": [
+			"thermal:silver_nugget",
+			"immersiveengineering:nugget_silver",
+			"bluepower:silver_nugget"
+		],
+		"forge:nuggets/nickel": [
+			"thermal:nickel_nugget",
+			"immersiveengineering:nugget_nickel"
+		],
+		"forge:nuggets/bronze": [
+			"mekanism:nugget_bronze",
+			"thermal:bronze_nugget",
+			"ftbic:bronze_nugget"
+		],
+		"forge:nuggets/steel": [
+			"mekanism:nugget_steel",
+			"assemblylinemachines:steel_nugget",
+			"thermal:steel_nugget",
+			"beyond_earth:steel_nugget",
+			"immersiveengineering:nugget_steel"
+		],
+		"forge:nuggets/uranium": [
+			"mekanism:nugget_uranium",
+			"ftbic:uranium_nugget",
+			"immersiveengineering:nugget_uranium"
+		],
+		"forge:nuggets/zinc": [
+			"create:zinc_nugget",
+			"bluepower:zinc_nugget"
+		],
+		"forge:dusts/copper": [
+			"mekanism:dust_copper",
+			"assemblylinemachines:ground_copper",
+			"thermal:copper_dust",
+			"ftbic:copper_dust",
+			"immersiveengineering:dust_copper"
+		],
+		"forge:dusts/tin": [
+			"mekanism:dust_tin",
+			"thermal:tin_dust",
+			"ftbic:tin_dust"
+		],
+		"forge:dusts/aluminum": [
+			"ftbic:aluminum_dust",
+			"immersiveengineering:dust_aluminum"
+		],
+		"forge:dusts/lead": [
+			"mekanism:dust_lead",
+			"thermal:lead_dust",
+			"ftbic:lead_dust",
+			"immersiveengineering:dust_lead"
+		],
+		"forge:dusts/silver": [
+			"thermal:silver_dust",
+			"immersiveengineering:dust_silver",
+			"bluepower:silver_dust"
+		],
+		"forge:dusts/nickel": [
+			"thermal:nickel_dust",
+			"immersiveengineering:dust_nickel"
+		],
+		"forge:dusts/bronze": [
+			"mekanism:dust_bronze",
+			"thermal:bronze_dust",
+			"ftbic:bronze_dust"
+		],
+		"forge:dusts/steel": [
+			"mekanism:dust_steel",
+			"assemblylinemachines:ground_steel",
+			"thermal:steel_dust",
+			"immersiveengineering:dust_steel"
+		],
+		"forge:dusts/uranium": [
+			"mekanism:dust_uranium",
+			"ftbic:uranium_dust",
+			"biggerreactors:uranium_dust",
+			"immersiveengineering:dust_uranium"
+		],
+		"forge:gears/copper": [
+			"thermal:copper_gear",
+			"ftbic:copper_gear"
+		],
+		"forge:gears/tin": [
+			"thermal:tin_gear",
+			"ftbic:tin_gear"
+		],
+		"forge:gears/lead": [
+			"thermal:lead_gear",
+			"ftbic:lead_gear"
+		],
+		"forge:gears/bronze": [
+			"thermal:bronze_gear",
+			"ftbic:bronze_gear"
+		],
+		"forge:plates/copper": [
+			"thermal:copper_plate",
+			"ftbic:copper_plate",
+			"create:copper_sheet",
+			"immersiveengineering:plate_copper"
+		],
+		"forge:plates/tin": [
+			"thermal:tin_plate",
+			"ftbic:tin_plate"
+		],
+		"forge:plates/aluminum": [
+			"ftbic:aluminum_plate",
+			"immersiveengineering:plate_aluminum"
+		],
+		"forge:plates/lead": [
+			"thermal:lead_plate",
+			"ftbic:lead_plate",
+			"immersiveengineering:plate_lead"
+		],
+		"forge:plates/silver": [
+			"thermal:silver_plate",
+			"immersiveengineering:plate_silver"
+		],
+		"forge:plates/nickel": [
+			"thermal:nickel_plate",
+			"immersiveengineering:plate_nickel"
+		],
+		"forge:plates/bronze": [
+			"alloyed:bronze_sheet",
+			"thermal:bronze_plate",
+			"ftbic:bronze_plate"
+		],
+		"forge:plates/steel": [
+			"alloyed:steel_sheet",
+			"thermal:steel_plate",
+			"immersiveengineering:plate_steel"
+		],
+		"forge:plates/uranium": [
+			"ftbic:uranium_plate",
+			"immersiveengineering:plate_uranium"
+		],
+		"forge:plates/zinc": [
+			"createdeco:zinc_sheet",
+			"createaddition:zinc_sheet"
+		],
+		"forge:raw_materials/tin": [
+			"mekanism:raw_tin",
+			"thermal:raw_tin",
+			"ftbic:tin_chunk"
+		],
+		"forge:raw_materials/aluminum": [
+			"ftbic:aluminum_chunk",
+			"immersiveengineering:raw_aluminum"
+		],
+		"forge:raw_materials/lead": [
+			"mekanism:raw_lead",
+			"thermal:raw_lead",
+			"ftbic:lead_chunk",
+			"immersiveengineering:raw_lead"
+		],
+		"forge:raw_materials/silver": [
+			"thermal:raw_silver",
+			"immersiveengineering:raw_silver",
+			"bluepower:silver_raw"
+		],
+		"forge:raw_materials/nickel": [
+			"thermal:raw_nickel",
+			"immersiveengineering:raw_nickel"
+		],
+		"forge:raw_materials/uranium": [
+			"mekanism:raw_uranium",
+			"ftbic:uranium_chunk",
+			"immersiveengineering:raw_uranium"
+		],
+		"forge:raw_materials/zinc": [
+			"create:raw_zinc",
+			"bluepower:zinc_raw"
+		],
+		"forge:storage_blocks/raw_tin": [
+			"mekanism:block_raw_tin",
+			"thermal:raw_tin_block"
+		],
+		"forge:storage_blocks/raw_lead": [
+			"mekanism:block_raw_lead",
+			"thermal:raw_lead_block",
+			"immersiveengineering:raw_block_lead"
+		],
+		"forge:storage_blocks/raw_silver": [
+			"thermal:raw_silver_block",
+			"immersiveengineering:raw_block_silver"
+		],
+		"forge:storage_blocks/raw_nickel": [
+			"thermal:raw_nickel_block",
+			"immersiveengineering:raw_block_nickel"
+		],
+		"forge:storage_blocks/raw_uranium": [
+			"mekanism:block_raw_uranium",
+			"immersiveengineering:raw_block_uranium"
+		],
+		"forge:dusts/sulfur": [
+			"mekanism:dust_sulfur",
+			"thermal:sulfur_dust",
+			"immersiveengineering:dust_sulfur"
+		],
+		"forge:dusts/netherite": [
+			"mekanism:dust_netherite",
+			"assemblylinemachines:ground_netherite",
+			"thermal:netherite_dust"
+		],
+		"unifytags:tag3": [
+			"mekanism:deepslate_tin_ore",
+			"thermal:deepslate_tin_ore"
+		],
+		"unifytags:tag5": [
+			"mekanism:tin_ore",
+			"thermal:tin_ore"
+		],
+		"unifytags:tag9": [
+			"mekanism:deepslate_lead_ore",
+			"immersiveengineering:deepslate_ore_lead",
+			"thermal:deepslate_lead_ore"
+		],
+		"unifytags:tag11": [
+			"mekanism:lead_ore",
+			"immersiveengineering:ore_lead",
+			"thermal:lead_ore"
+		],
+		"unifytags:tag12": [
+			"immersiveengineering:deepslate_ore_silver",
+			"thermal:deepslate_silver_ore"
+		],
+		"unifytags:tag14": [
+			"immersiveengineering:ore_silver",
+			"thermal:silver_ore"
+		],
+		"unifytags:tag15": [
+			"immersiveengineering:deepslate_ore_nickel",
+			"thermal:deepslate_nickel_ore"
+		],
+		"unifytags:tag17": [
+			"immersiveengineering:ore_nickel",
+			"thermal:nickel_ore"
+		],
+		"unifytags:tag27": [
+			"mekanism:deepslate_uranium_ore",
+			"immersiveengineering:deepslate_ore_uranium"
+		],
+		"unifytags:tag29": [
+			"mekanism:uranium_ore",
+			"immersiveengineering:ore_uranium"
+		]
+	},
+	"tagPriorityItems": {
+		"forge:plates/iron": "ftbic:iron_plate",
+		"forge:gears/iron": "ftbic:iron_gear",
+		"forge:silicon": "ftbic:silicon",
+		"forge:coal_coke": "thermal:coal_coke",
+		"forge:plastic": "pneumaticcraft:plastic",
+		"forge:rubber": "ftbic:rubber",
+		"deepresonance:resonant_ore": "deepresonance:resonating_ore_deepslate",
+		"forge:gears/gold": "ftbic:gold_gear",
+		"forge:gears/diamond": "thermal:diamond_gear",
+		"forge:plates/gold": "ftbic:gold_plate",
+		"forge:storage_blocks/tin": "ftbic:tin_block",
+		"forge:storage_blocks/aluminum": "ftbic:aluminum_block",
+		"forge:storage_blocks/lead": "ftbic:lead_block",
+		"forge:storage_blocks/silver": "thermal:silver_block",
+		"forge:storage_blocks/nickel": "thermal:nickel_block",
+		"forge:storage_blocks/bronze": "ftbic:bronze_block",
+		"forge:storage_blocks/steel": "mekanism:block_steel",
+		"forge:storage_blocks/uranium": "ftbic:uranium_block",
+		"forge:storage_blocks/zinc": "create:zinc_block",
+		"forge:ingots/tin": "ftbic:tin_ingot",
+		"forge:ingots/aluminum": "ftbic:aluminum_ingot",
+		"forge:ingots/lead": "ftbic:lead_ingot",
+		"forge:ingots/silver": "thermal:silver_ingot",
+		"forge:ingots/nickel": "thermal:nickel_ingot",
+		"forge:ingots/bronze": "ftbic:bronze_ingot",
+		"forge:ingots/steel": "mekanism:ingot_steel",
+		"forge:ingots/uranium": "ftbic:uranium_ingot",
+		"forge:ingots/zinc": "create:zinc_ingot",
+		"forge:nuggets/copper": "ftbic:copper_nugget",
+		"forge:nuggets/tin": "ftbic:tin_nugget",
+		"forge:nuggets/aluminum": "ftbic:aluminum_nugget",
+		"forge:nuggets/lead": "ftbic:lead_nugget",
+		"forge:nuggets/silver": "thermal:silver_nugget",
+		"forge:nuggets/nickel": "thermal:nickel_nugget",
+		"forge:nuggets/bronze": "ftbic:bronze_nugget",
+		"forge:nuggets/steel": "mekanism:nugget_steel",
+		"forge:nuggets/uranium": "ftbic:uranium_nugget",
+		"forge:nuggets/zinc": "create:zinc_nugget",
+		"forge:dusts/copper": "ftbic:copper_dust",
+		"forge:dusts/tin": "ftbic:tin_dust",
+		"forge:dusts/aluminum": "ftbic:aluminum_dust",
+		"forge:dusts/lead": "ftbic:lead_dust",
+		"forge:dusts/silver": "thermal:silver_dust",
+		"forge:dusts/nickel": "thermal:nickel_dust",
+		"forge:dusts/bronze": "ftbic:bronze_dust",
+		"forge:dusts/steel": "mekanism:dust_steel",
+		"forge:dusts/uranium": "ftbic:uranium_dust",
+		"forge:gears/copper": "ftbic:copper_gear",
+		"forge:gears/tin": "ftbic:tin_gear",
+		"forge:gears/lead": "ftbic:lead_gear",
+		"forge:gears/bronze": "ftbic:bronze_gear",
+		"forge:plates/copper": "ftbic:copper_plate",
+		"forge:plates/tin": "ftbic:tin_plate",
+		"forge:plates/aluminum": "ftbic:aluminum_plate",
+		"forge:plates/lead": "ftbic:lead_plate",
+		"forge:plates/silver": "thermal:silver_plate",
+		"forge:plates/nickel": "thermal:nickel_plate",
+		"forge:plates/bronze": "ftbic:bronze_plate",
+		"forge:plates/steel": "thermal:steel_plate",
+		"forge:plates/uranium": "ftbic:uranium_plate",
+		"forge:plates/zinc": "createdeco:zinc_sheet",
+		"forge:raw_materials/tin": "ftbic:tin_chunk",
+		"forge:raw_materials/aluminum": "ftbic:aluminum_chunk",
+		"forge:raw_materials/lead": "ftbic:lead_chunk",
+		"forge:raw_materials/silver": "thermal:raw_silver",
+		"forge:raw_materials/nickel": "thermal:raw_nickel",
+		"forge:raw_materials/uranium": "ftbic:uranium_chunk",
+		"forge:raw_materials/zinc": "create:raw_zinc",
+		"forge:storage_blocks/raw_tin": "mekanism:block_raw_tin",
+		"forge:storage_blocks/raw_lead": "mekanism:block_raw_lead",
+		"forge:storage_blocks/raw_silver": "thermal:raw_silver_block",
+		"forge:storage_blocks/raw_nickel": "thermal:raw_nickel_block",
+		"forge:storage_blocks/raw_uranium": "mekanism:block_raw_uranium",
+		"forge:dusts/sulfur": "mekanism:dust_sulfur",
+		"forge:dusts/netherite": "mekanism:dust_netherite",
+		"unifytags:tag3": "mekanism:deepslate_tin_ore",
+		"unifytags:tag5": "mekanism:tin_ore",
+		"unifytags:tag9": "mekanism:deepslate_lead_ore",
+		"unifytags:tag11": "mekanism:lead_ore",
+		"unifytags:tag12": "thermal:deepslate_silver_ore",
+		"unifytags:tag14": "thermal:silver_ore",
+		"unifytags:tag15": "thermal:deepslate_nickel_ore",
+		"unifytags:tag17": "thermal:nickel_ore",
+		"unifytags:tag27": "mekanism:deepslate_uranium_ore",
+		"unifytags:tag29": "mekanism:uranium_ore"
+	},
+	"unifyexclude": []
+}

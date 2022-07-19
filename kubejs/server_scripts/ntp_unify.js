@@ -75,8 +75,8 @@ let tagSplits = [
 if (Platform.isForge()) {
     // Easier way to add multiple tags on forge (all items here are inserted into the tags set)
     let tagGen = [
-        "gold,diamond=gears,plates",
-        "copper,tin,aluminum,lead,silver,nickel,bronze,steel,platinum,uranium,iridium,zinc"
+        "gold,diamond,iron=gears,plates,dusts",
+        "copper,tin,aluminum,lead,silver,nickel,bronze,steel,platinum,uranium,iridium,zinc,enderium,constantan,electrum"
         + "=storage_blocks,ingots,nuggets,dusts,ores,gears,plates,raw_materials",
         "raw_copper,raw_tin,raw_aluminum,raw_lead,raw_silver,raw_nickel,raw_bronze,raw_steel,raw_platinum,raw_uranium,raw_iridium,raw_zinc=storage_blocks",
         "osmium=ingots,ores",
