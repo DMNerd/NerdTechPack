@@ -36,6 +36,7 @@ global["unifyexcludegen"] = [
 let tags = new Set([
     "forge:plates/iron",
     "forge:gears/iron",
+    "forge:dusts/ender_pearl",
     "forge:silicon",
     "forge:coal_coke",
     "forge:plastic",
@@ -76,7 +77,7 @@ if (Platform.isForge()) {
     // Easier way to add multiple tags on forge (all items here are inserted into the tags set)
     let tagGen = [
         "gold,diamond,iron=gears,plates,dusts",
-        "copper,tin,aluminum,lead,silver,nickel,bronze,steel,platinum,uranium,iridium,zinc,enderium,constantan,electrum"
+        "copper,tin,aluminum,lead,silver,nickel,bronze,steel,platinum,uranium,iridium,zinc,enderium,constantan,electrum,brass,rose_gold"
         + "=storage_blocks,ingots,nuggets,dusts,ores,gears,plates,raw_materials",
         "raw_copper,raw_tin,raw_aluminum,raw_lead,raw_silver,raw_nickel,raw_bronze,raw_steel,raw_platinum,raw_uranium,raw_iridium,raw_zinc=storage_blocks",
         "osmium=ingots,ores",

@@ -41,6 +41,8 @@ onEvent('tags.items', event => {
 	//FTBIC integration
 	event.add('forge:raw_ores/iridium', 'ftbic:iridium_chunk')
 	event.add('forge:rubber', 'ftbic:rubber')
+	event.add('forge:dusts/ender_pearl', 'ftbic:ender_dust')
+	event.remove('forge:dusts/ender', 'ftbic:ender_dust')
 	//Industrial Foregoing integration
 	event.add('pneumaticcraft:plastic_sheets', 'industrialforegoing:plastic')
 	event.add('forge:sheets', 'industrialforegoing:plastic')
