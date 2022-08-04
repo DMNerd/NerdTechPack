@@ -37,10 +37,14 @@ let tags = new Set([
     "forge:plates/iron",
     "forge:gears/iron",
     "forge:dusts/ender_pearl",
+    "forge:circuits/basic",
+    "forge:circuits/advanced",
     "forge:silicon",
+    "forge:storage_blocks/coal_coke",
     "forge:coal_coke",
     "forge:plastic",
-    'forge:rubber',
+    "forge:rubber",
+    "forge:jetpack_strap",
     "deepresonance:resonant_ore"
 ])
 

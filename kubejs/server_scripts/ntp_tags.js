@@ -29,6 +29,7 @@ onEvent('tags.items', event => {
 	event.add('forge:ingots/purple_alloy', 'bluepower:purple_alloy_ingot')
 	event.add('create:crushed_ores', 'bluepower:zinc_ore_crushed')
 	event.add('forge:seeds', 'bluepower:flax_seeds')
+	event.add('thermal:glass/hardened', 'bluepower:reinforced_sapphire_glass')
 	//Powah integration
 	event.add('forge:ingots', 'powah:steel_energized')
 	event.add('forge:ingots/energized_steel', 'powah:steel_energized')
@@ -42,6 +43,7 @@ onEvent('tags.items', event => {
 	event.add('forge:raw_ores/iridium', 'ftbic:iridium_chunk')
 	event.add('forge:rubber', 'ftbic:rubber')
 	event.add('forge:dusts/ender_pearl', 'ftbic:ender_dust')
+	event.add('thermal:glass/hardened', 'ftbic:reinforced_glass')
 	event.remove('forge:dusts/ender', 'ftbic:ender_dust')
 	//Industrial Foregoing integration
 	event.add('pneumaticcraft:plastic_sheets', 'industrialforegoing:plastic')
@@ -58,4 +60,13 @@ onEvent('tags.items', event => {
 	event.add('forge:plastic', 'assemblylinemachines:plastic_sheet')
 	event.add('pneumaticcraft:plastic_sheets', 'assemblylinemachines:plastic_sheet')
 	event.add('materialis:plastic_material', 'assemblylinemachines:plastic_sheet')
+	//Jetpacks Unification
+	event.add('forge:jetpack_strap', 'ironjetpacks:strap')
+	event.add('forge:jetpack_strap', 'simplyjetpacks:leather_strap')
+})
+onEvent('tags.fluids', event => {
+	//Experience Integration
+	event.add('forge:experience', 'experienceobelisk:raw_experience')
+	event.add('forge:experience', 'assemblylinemachines:liquid_experience')
+	//Latex Integration
 })
