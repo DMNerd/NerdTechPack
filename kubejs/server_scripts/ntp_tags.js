@@ -62,7 +62,7 @@ onEvent('tags.items', event => {
 	event.add('materialis:plastic_material', 'assemblylinemachines:plastic_sheet')
 	//Jetpacks Unification
 	event.add('forge:jetpack_strap', 'ironjetpacks:strap')
-	event.add('forge:jetpack_strap', 'simplyjetpacks:leather_strap')
+	//event.add('forge:jetpack_strap', 'simplyjetpacks:leather_strap')
 })
 onEvent('tags.fluids', event => {
 	//Experience Integration
